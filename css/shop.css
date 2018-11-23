@@ -1,0 +1,19 @@
+.w3-sidebar a {font-family: "Roboto", sans-serif}
+body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
+
+
+#products{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+
+.Photo{
+    flex: 1 0 23%;  margin: 4px;
+    
+}
+
+.Photo img{
+max-width: 100%;
+}
